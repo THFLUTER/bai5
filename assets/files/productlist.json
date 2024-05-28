@@ -1,0 +1,181 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Iphone 1",
+            "price": 2100000,
+            "img": "img_1.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 2,
+            "name": "Iphone 2",
+            "price": 2100000,
+            "img": "img_2.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 3,
+            "name": "Iphone 3",
+            "price": 2100000,
+            "img": "img_3.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 4,
+            "name": "Iphone 4",
+            "price": 2100000,
+            "img": "img_4.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 5,
+            "name": "Iphone 5",
+            "price": 2100000,
+            "img": "img_5.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 6,
+            "name": "Iphone 6",
+            "price": 2100000,
+            "img": "img_6.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 7,
+            "name": "Iphone 7",
+            "price": 2100000,
+            "img": "img_7.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 8,
+            "name": "Iphone 8",
+            "price": 2100000,
+            "img": "img_8.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 9,
+            "name": "Iphone 9",
+            "price": 2100000,
+            "img": "img_9.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 10,
+            "name": "Iphone 10",
+            "price": 2100000,
+            "img": "img_10.jpg",
+            "des": "Iphone",
+            "catId": 1
+        },
+        {
+            "id": 11,
+            "name": "Samsung A03",
+            "price": 2100000,
+            "img": "Samsung_A03.png",
+            "des": "Samsung",
+            "catId": 2
+        },
+        {
+            "id": 12,
+            "name": "Samsung A04",
+            "price": 2100000,
+            "img": "Samsung_A04.png",
+            "des": "Samsung",
+            "catId": 2
+        },
+        {
+            "id": 13,
+            "name": "Samsung A05",
+            "price": 2100000,
+            "img": "Samsung_A05.png",
+            "des": "Samsung",
+            "catId": 2
+        },
+        {
+            "id": 14,
+            "name": "Samsung A14",
+            "price": 2100000,
+            "img": "Samsung_A14.png",
+            "des": "Samsung",
+            "catId": 2
+        },
+        {
+            "id": 15,
+            "name": "Samsung A23",
+            "price": 2100000,
+            "img": "Samsung_A23.png",
+            "des": "Samsung",
+            "catId": 2
+        },
+        {
+            "id": 16,
+            "name": "Samsung A34",
+            "price": 2100000,
+            "img": "Samsung_A34.png",
+            "des": "Samsung",
+            "catId": 2
+        },
+        {
+            "id": 17,
+            "name": "Oppo A18",
+            "price": 2100000,
+            "img": "oppo_A18.jpg",
+            "des": "Samsung",
+            "catId": 3
+        },
+        {
+            "id": 18,
+            "name": "Oppo A38",
+            "price": 2950000,
+            "img": "oppo_A38.jpg",
+            "des": "Samsung",
+            "catId": 3
+        },
+        {
+            "id": 19,
+            "name": "Oppo A79",
+            "price": 2950000,
+            "img": "oppo_A79.jpg",
+            "des": "Samsung",
+            "catId": 3
+        },
+        {
+            "id": 20,
+            "name": "Oppo A98",
+            "price": 2950000,
+            "img": "oppo_A98.jpg",
+            "des": "Samsung",
+            "catId": 3
+        },
+        {
+            "id": 21,
+            "name": "Oppo Reno 11",
+            "price": 2950000,
+            "img": "oppo_reno_11.jpg",
+            "des": "Samsung",
+            "catId": 3
+        },
+        {
+            "id": 22,
+            "name": "Oppo Reno 10",
+            "price": 2950000,
+            "img": "oppo_reno10.jpg",
+            "des": "Samsung",
+            "catId": 3
+        }
+        
+    ]
+}
